@@ -1,4 +1,4 @@
-# Academic-project
+# Do more guns lead to less crime? 
 Do more guns lead to less crime?
 The impact of guns on crime in America has triggered a lot of public debate. 
 Many strongly believe that state laws enabling citizens to carry concealed handguns had reduced crime. According to this view, gun control laws take away guns from law-abiding citizens, while would-be criminals ignore those leaving potential victims defenceless.
